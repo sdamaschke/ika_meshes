@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tricolor Traffic Light
+* source:	https://sketchfab.com/3d-models/tricolor-traffic-light-c87055a9259c4325999be5b44b189c44
+* author:	Sylvain Delandre (https://sketchfab.com/lemanitek)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tricolor Traffic Light" (https://sketchfab.com/3d-models/tricolor-traffic-light-c87055a9259c4325999be5b44b189c44) by Sylvain Delandre (https://sketchfab.com/lemanitek) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
